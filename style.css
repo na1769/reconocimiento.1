@@ -1,0 +1,17 @@
+body{
+    color: rgb(0, 0, 0);
+    background: rgb(197, 67, 67);
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#camara{
+    border: 2px dashed rgb(89,50, 15);
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_accuracy{
+    color: indianred;
+}
